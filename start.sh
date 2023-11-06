@@ -2,8 +2,8 @@
 
 export NEZHA_SERVER='nezhedata.dreama.eu.org'
 export NEZHA_PORT='443'
-export NEZHA_KEY='HuUs849Oa8uCd741PT'
-export TLS='1'
+export NEZHA_KEY='r7YhWuz9wor4DeI2AV'
+export TLS=${TLS:-'1'}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
 export ARGO_AUTH=${ARGO_AUTH:-''}
